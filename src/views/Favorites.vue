@@ -41,7 +41,7 @@ export default {
           title: '',
           size: 'md',
           buttonSize: 'md',
-          okVariant: 'danger',
+          okVariant: 'success',
           headerClass: 'p-2 border-bottom-0',
           footerClass: 'p-2 border-top-0',
           centered: true,
